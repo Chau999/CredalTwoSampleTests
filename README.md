@@ -1,2 +1,2 @@
-# CredalTwoSampleTests
-Code Repository for the project Credal Two-sample Testing
+# Credal Two-sample Test implementation
+Implementation of Credal Two-Sample testing with JAX.
